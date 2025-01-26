@@ -1,6 +1,6 @@
 ---
-title: "MICCAI OMIA Workshop"
-excerpt: "The 11th Ophthalmology Image Analysis Workshop on MICCAI 2024 was successfully held in Marrakech, Morocco.<br/><img src='/images/OMIA11.png'>"
+title: "MICCAI OMIA Workshop & STAGE2 Challenge"
+excerpt: "The 11th Ophthalmology Image Analysis (OMIA) Workshop and the Structural-Functional Transition in Glaucoma Assessment 2 (STAGE2) Challenge on MICCAI 2024 were successfully held in Marrakech, Morocco.<br/><img src='/images/OMIA11.png'>"
 collection: portfolio
 ---
 
