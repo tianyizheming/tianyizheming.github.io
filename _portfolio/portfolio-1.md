@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MICCAI OMIA Workshop"
+excerpt: "The 11th Ophthalmology Image Analysis Workshop on MICCAI 2024 was successfully held in Marrakech, Morocco.<br/><img src='/images/OMIA11.png'>"
 collection: portfolio
 ---
 
