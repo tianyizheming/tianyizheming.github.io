@@ -13,4 +13,3 @@ Before joining NTU, I worked as an associate researcher at the [HDMI Lab](http:/
 
 Feel free to reach out—I’d love to connect and discuss ideas!
 
-📧 [Email](mailto:hhfang@ieee.org) | 📄 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GmntaOwAAAAJ&view_op=list_works&sortby=pubdate) | 💻 [Github](https://github.com/tianyizheming)
