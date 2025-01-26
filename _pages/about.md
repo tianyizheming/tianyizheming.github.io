@@ -13,3 +13,11 @@ Before joining NTU, I worked as an associate researcher at the [HDMI Lab](http:/
 
 Feel free to reach out—I’d love to connect and discuss ideas!
 
+***RECENT NEWS***<br/>
+
+- [01/2025] One paper accepted by **ISBI 2025**: "Adapting Segment Anything 2 for Diabetic Retinopathy Lesion Segmentation in Ultra-High Resolution Fundus Images". Congratulations to Chen Ying. <br/>
+- [10/2024] One paper accepted by **BIBM 2024**: "BA-SAM: Boundary-Aware Adaptation of Segment Anything Model for Medical Image Segmentation". Congratulations to Chen Ying. <br/>
+- [10/2024] The OMIA11 Workshop and STAGE2 Challenge on MICCAI 2024 were successfully held in Marrakech, Morocco.<br/>
+- [09/2024] One paper accepted by **Science Bulletin**: "Multi-rater prism: Learning self-calibrated medical image segmentation from multiple raters".<br/>
+- [06/2024] One paper accepted by **MICCAI 2024**: "Cache-Driven Spatial Test-Time Adaptation for Cross-Modality Medical Image Segmentation". Congratulations to Li Xiang. <br/>
+- [05/2024] One paper early accepted by **MICCAI 2024**: "Diffusion-Enhanced Transformation Consistency Learning for Retinal Image Segmentation". Congratulations to Li Xiang.
